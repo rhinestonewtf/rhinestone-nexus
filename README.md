@@ -3,7 +3,7 @@
 
 **Version 1.2.0**
 
-A modular smart account optimized for chain abstraction and multi-chain use with [Rhinestone Intents](https://docs.rhinestone.dev/home/introduction/rhinestone-intents).
+A modular smart account optimized for multichain use with Rhinestone relaying.
 
 > This is a fork of [Biconomy's Nexus](https://github.com/bcnmy/nexus), a modular smart account built off the foundational work of ERC-7579 and the [ERC-7579 reference implementation](https://github.com/erc7579/erc7579-implementation). We extend our thanks to the Biconomy team in partnering with us to build the foundations of ERC-7579.
 
@@ -13,7 +13,7 @@ Rhinestone Nexus is an [ERC-7579](https://eips.ethereum.org/EIPS/eip-7579) compl
 
 ### Key Features
 
-**Chain Abstraction Ready**
+**Multichain Ready**
 - Multi-chain aware initialization with chain ID verification
 - EIP-712 TypedData signing for cross-chain initialize transactions
 - Designed for use with Rhinestone Intents for cross-chain execution
