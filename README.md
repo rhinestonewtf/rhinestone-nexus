@@ -3,7 +3,7 @@
 
 **Version 1.2.0**
 
-A modular smart account optimized for multichain use with Rhinestone relaying.
+A modular smart account optimized for multichain use with [Rhinestone relaying](https://docs.rhinestone.dev/home/introduction/rhinestone-intents).
 
 > This is a fork of [Biconomy's Nexus](https://github.com/bcnmy/nexus), a modular smart account built off the foundational work of ERC-7579 and the [ERC-7579 reference implementation](https://github.com/erc7579/erc7579-implementation). We extend our thanks to the Biconomy team in partnering with us to build the foundations of ERC-7579.
 
